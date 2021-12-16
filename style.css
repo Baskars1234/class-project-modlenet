@@ -39,12 +39,10 @@
    text-align: center;
  }
 
-.test_image_and_result{
-  background-color:  grey;
-  width: 1400px;
-  margin-left: 25px;
-  margin-top: 25px;
-  padding-bottom: 23px;
-  border-radius: 20px;
-  box-shadow:6px 6px 6px grey;
-}
+ canvas{
+   border: 5px solid white;
+   border-radius: 20px;
+   box-shadow: 5px 5px 5px grey;
+   margin-top: 160px;
+ }
+ 
